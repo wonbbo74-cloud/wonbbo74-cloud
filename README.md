@@ -9,6 +9,8 @@
 
 🎮 게임 기획 · 📐 레벨 디자인 · 🌐 웹/앱 서비스 기획 · 📱 UI/UX 설계 · 🤖 AI 활용 · 🗄 데이터 기반 설계
 
+[![Portfolio](https://img.shields.io/badge/📁_포트폴리오_사이트_보기-1F6FEB?style=for-the-badge)](https://wonbbo74-cloud.github.io/portpolio/)
+
 </div>
 
 ---
@@ -60,11 +62,22 @@
 
 ### ⭐ Main
 
-| 프로젝트 | 분야 | 역할 | 기술 | 성과 |
-|---|---|---|---|---|
-| **AETERE: The Last Code** | 게임 기획/개발 · Unity 3D RPG | 기획 · 디자인 | Unity, C#, Blender, 3ds Max, Midjourney | 종합설계 팀 프로젝트 (4인) |
-| [**MATCH SKU**](https://github.com/wonbbo74-cloud/matchsku) | 웹 서비스 · 팀 매칭 플랫폼 | 단독 개발 (기획~DB~프론트) | PHP, MySQL, Python, HTML/CSS/JS | 1,232개 과목 DB · 16개 테이블 설계 |
-| [**CUP BACK**](https://github.com/wonbbo74-cloud/cupback) | 사회혁신 · 모바일 웹 | 서비스 기획 · UI 디자인 · 회수기 제작 | Figma, Canva, Notion | 🏅 SCC 창의문제해결 우수상 |
+#### 🎮 AETERE: The Last Code
+세계관, 퀘스트 UI, 맵 구조, 캐릭터 연결 구조를 하나의 플레이 경험으로 엮은 Unity 3D RPG
+- **역할** 기획 · 디자인 (종합설계 팀 프로젝트, 4인)
+- **기술** Unity · C# · Blender · 3ds Max · Midjourney
+
+#### 🤝 [MATCH SKU](https://github.com/wonbbo74-cloud/matchsku)
+팀 구성 문제를 사용자 흐름과 데이터 구조로 풀어낸 학생 팀원 매칭 웹 서비스
+- **역할** 단독 개발 (기획 → DB → 프론트)
+- **기술** PHP · MySQL · Python · HTML/CSS/JS · Apache
+- **성과** 1,232개 과목 DB 구축, 16개 테이블 설계
+
+#### ♻️ [CUP BACK](https://github.com/wonbbo74-cloud/cupback) · [사이트 보기](https://wonbbo74-cloud.github.io/cupback/)
+일회용 컵 회수 문제를 QR 기반 서비스와 실물 회수기로 연결한 창의문제해결 프로젝트
+- **역할** 서비스 기획 · UI 디자인 · 회수기 제작
+- **기술** Figma · Canva · Notion · HTML/CSS/JS · Firebase
+- **성과** 🏅 SCC 창의문제해결 프로젝트 우수상
 
 ### 📌 Support
 
@@ -73,7 +86,7 @@
 | **Echo – 소리 조각들** | 게임 기획/개발 · Unity 3D | 🏅 2025 Game Jam 최우수상, 감성 어드벤처 게임 (조장 · 기획 · 디자인) |
 | **FOOD RACING** | 게임 기획 · Unity 3D | 한국 전통음식·지역 특산물을 레이싱 플레이로 연결한 게임 기획 |
 | **MoodMelody** | 앱 개발 · Flask 웹앱 | 감정 분석 아이디어를 Python/Flask로 구현한 단독 풀스택 개발 |
-| [**Tiny Fleet Go!**](https://github.com/wonbbo74-cloud/Tiny-Fleet-Go) | 게임 개발 · Unity 3D | 게임엔진 수업 경진대회 완성형 데모 |
+| **Tiny Fleet Go!** | 게임 개발 · Unity 3D | 게임엔진 수업 경진대회 완성형 데모 |
 | **노인 쇼핑몰** | UI/UX 기획 · PC 웹 | 고령층 접근성과 가독성을 고려한 UI/UX 기획 (3인 팀) |
 | **미디어소프트웨어학과 웹사이트** | 웹 운영 | 실제 사용자 대상 학과 홈페이지 콘텐츠·디자인 관리 |
 
