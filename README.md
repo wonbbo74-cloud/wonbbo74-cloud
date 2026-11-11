@@ -62,7 +62,7 @@
 
 ### ⭐ Main
 
-#### 🎮 AETERE: The Last Code
+#### 🎮 [AETHER: The Last Code](https://github.com/wonbbo74-cloud/AETHER)
 세계관, 퀘스트 UI, 맵 구조, 캐릭터 연결 구조를 하나의 플레이 경험으로 엮은 Unity 3D RPG
 - **역할** 기획 · 디자인 (종합설계 팀 프로젝트, 4인)
 - **기술** Unity · C# · Blender · 3ds Max · Midjourney
@@ -83,6 +83,7 @@
 
 | 프로젝트 | 분야 | 한 줄 소개 |
 |---|---|---|
+| [**에코시티 구조대**](https://github.com/wonbbo74-cloud/ECO-CITY) | 게임 기획/개발 · Unity 3D | 초등학생 대상 분리배출 환경교육 게임 (2026 SCC, 팀 겜성충만) |
 | **Echo – 소리 조각들** | 게임 기획/개발 · Unity 3D | 🏅 2025 Game Jam 최우수상, 감성 어드벤처 게임 (조장 · 기획 · 디자인) |
 | **FOOD RACING** | 게임 기획 · Unity 3D | 한국 전통음식·지역 특산물을 레이싱 플레이로 연결한 게임 기획 |
 | **MoodMelody** | 앱 개발 · Flask 웹앱 | 감정 분석 아이디어를 Python/Flask로 구현한 단독 풀스택 개발 |
