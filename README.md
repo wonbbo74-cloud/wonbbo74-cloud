@@ -62,9 +62,10 @@
 
 ### ⭐ Main
 
-#### 🎮 [AETHER: The Last Code](https://github.com/wonbbo74-cloud/AETHER)
-세계관, 퀘스트 UI, 맵 구조, 캐릭터 연결 구조를 하나의 플레이 경험으로 엮은 Unity 3D RPG
+#### 🎮 [AETHER: The Last Code](https://github.com/wonbbo74-cloud/AETHER) · [기획 문서](https://github.com/wonbbo74-cloud/AETHER/blob/main/docs/DESIGN.md)
+폐허가 된 연구 시설을 파츠 장착·퍼즐·전투로 한 구역씩 해방하는 Unity 1인칭 액션 어드벤처
 - **역할** 기획 · 디자인 (종합설계 팀 프로젝트, 4인)
+- **기획 포인트** 수집 → 제작 → 새 능력으로 다음 구역 진입 루프, 에테르 레벨 성장 곡선, 플레이테스트 기반 전투 밸런스·웨이브 설계, 퍼즐 난이도 자동 조절(DDA)
 - **기술** Unity · C# · Blender · 3ds Max · Midjourney
 
 #### 🤝 [MATCH SKU](https://github.com/wonbbo74-cloud/matchsku)
@@ -78,6 +79,14 @@
 - **역할** 서비스 기획 · UI 디자인 · 회수기 제작
 - **기술** Figma · Canva · Notion · HTML/CSS/JS · Firebase
 - **성과** 🏅 SCC 창의문제해결 프로젝트 우수상
+
+### 📄 기획 문서
+
+| 문서 | 내용 |
+|---|---|
+| [AETHER 기획 설계와 밸런스 조정 기록](https://github.com/wonbbo74-cloud/AETHER/blob/main/docs/DESIGN.md) | 진행 구조, 성장 곡선, 플레이테스트 후 전투 수치 조정, 웨이브·점프 코스 설계, 퍼즐 DDA |
+| [에코시티 구조대 기획 포인트](https://github.com/wonbbo74-cloud/ECO-CITY#-기획-포인트) | 초등학생 대상 3단계 학습 구조, 오답 후 재도전·단계별 힌트, 별·도감 보상 설계 |
+| [CUP BACK 기획서 (PDF)](https://github.com/wonbbo74-cloud/cupback/blob/main/SCC%20기획서%20최종본_팀%20리커버스.pdf) | 일회용 컵 회수 문제 정의부터 QR 서비스·회수기까지의 기획 |
 
 ### 📌 Support
 
